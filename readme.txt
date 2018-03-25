@@ -5,3 +5,4 @@
 5. go to sleep early
 6. stay strong
 7. remember common commands 
+8. try remembre 
