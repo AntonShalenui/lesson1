@@ -4,3 +4,4 @@
 4. learn git
 5. go to sleep early
 6. stay strong
+7. remember common commands 
